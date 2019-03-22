@@ -1,8 +1,8 @@
 {
   "app_name": "starter-app",
-  "src_hash": "d998a9e9a6de76d0b212491c2d9b8d5ecbf1cac0",
+  "src_hash": "89e16686a3c8c4fdef6db644d878ea2fe7cc1482",
   "src_tag": "",
-  "src_branch": "master",
+  "src_branch": "master-stable",
   "npm_info": {
   "name": "insights-frontend-starter-app",
   "version": "1.1.0",
@@ -341,7 +341,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "8",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/509665071"
+    "build_number": "12",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/509711284"
   }
 }
