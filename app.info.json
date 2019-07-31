@@ -1,11 +1,11 @@
 {
   "app_name": "tower-analytics",
-  "src_hash": "f03a80b0826ecdffcb27c8028a26e2cae92d3c8a",
+  "src_hash": "770cf6a749a5ea0c7b935cb1123bb284ba48f93f",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "50",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/565698512"
+    "build_number": "57",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/565977909"
   }
 }
