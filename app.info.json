@@ -1,11 +1,11 @@
 {
   "app_name": "automation-analytics",
-  "src_hash": "b2bed8f03c485778abb1bf2f820a817d4f122e5b",
+  "src_hash": "ec0f53f1f73d1d09fa3f8a155a867e9582e56a88",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "477",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/676347915"
+    "build_number": "482",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/677776302"
   }
 }
