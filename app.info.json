@@ -1,12 +1,12 @@
 {
   "app_name": "automation-analytics",
-  "src_hash": "81bcde6d4695aa6e293a5ab3fa94ccaa89c8f268",
+  "src_hash": "15f7631963e96dc46f3ff907c5dcef5346febce3",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.10.31","@patternfly/react-core@4.18.5","@patternfly/react-table@4.5.7"],
   "travis": {
     "event_type": "push",
-    "build_number": "1025",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/729287067"
+    "build_number": "1026",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/tower-analytics-frontend/builds/729319582"
   }
 }
