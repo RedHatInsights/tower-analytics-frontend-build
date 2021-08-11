@@ -1,2 +1,2 @@
 (self.webpackChunkautomation_analytics=self.webpackChunkautomation_analytics||[]).push([[115],{14115:(a,t,n)=>{"use strict";n.d(t,{Z:()=>c});var r=n(20806),s=n(17563);const c=function(a,t){return function(n){var c=(0,s.stringify)(n,{arrayFormat:"bracket"});a.push({pathname:r.n[t],search:c})}}}}]);
-//# sourceMappingURL=../sourcemaps/115.7ed3cd09ce8e342cc538.js.map
+//# sourceMappingURL=../sourcemaps/115.d51ae9bddc5dc0910eb6.js.map
