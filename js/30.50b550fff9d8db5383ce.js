@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkautomation_analytics=self.webpackChunkautomation_analytics||[]).push([[30],{22030:(t,s,a)=>{a.d(s,{Z:()=>n});var e=a(20806);const n={get:""+e.n.reports,details:e.n.reports+"/:slug",getDetails:function(t){return e.n.reports+"/"+t}}}}]);
+//# sourceMappingURL=../sourcemaps/30.467b3735ea6bfe3be05242fdd2da67db.js.map
