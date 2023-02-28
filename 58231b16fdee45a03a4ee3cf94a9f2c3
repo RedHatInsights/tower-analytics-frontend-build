@@ -36,6 +36,7 @@ node {
       // Send Slack Notification
       String SLACK_TEXT = "${APP_NAME}/${BRANCH} [STATUS] - Deploy build ${app_info.build_id} started for GIT COMMIT ${app_info.build_hash}."
       slackSend message: SLACK_TEXT, color: 'black', channel: '#insights-bots'
+      slackSend message: SLACK_TEXT, color: 'black', channel: '#automation_analytics_alerts'
 
       AKAMAI_BASE_PATH = "822386"
       AKAMAI_APP_PATH = "/${AKAMAI_BASE_PATH}/${PREFIX}apps/${APP_NAME}"
