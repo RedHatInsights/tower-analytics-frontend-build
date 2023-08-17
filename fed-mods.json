@@ -1,10 +1,10 @@
 {
     "automationAnalytics": {
         "entry": [
-            "/beta/apps/automation-analytics/automationAnalytics.bdeb1223f384a2491d43.js"
+            "/beta/apps/automation-analytics/automationAnalytics.c6b8b11a83ff9ef9734c.js"
         ],
         "modules": [
-            "/beta/apps/automation-analytics/js/885.bdeb1223f384a2491d43.js",
+            "/beta/apps/automation-analytics/js/885.c6b8b11a83ff9ef9734c.js",
             "/beta/apps/automation-analytics/css/885.637e22d4a88837dfa86e.css"
         ]
     }
